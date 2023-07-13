@@ -1,0 +1,5 @@
+1. AWS ACCOUNT (this will be run on terminal which will request for access key )
+2. PROGRAMMATIC ACCESS AND AWS CONFIGURED WITH CLI(Created on AWS with IAM)
+3. PYTHON3 INSTALLED
+4. DOCKER AND KUBECTL INSTALLED
+5. CODE EDITOR
